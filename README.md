@@ -16,7 +16,7 @@ Optionally, if you want the run the dev server outside localhost:
 
     python manage.py runserver 0.0.0.0:8000
     
-Visit http://localhost:8000 or http://[your-ip-address]:8000
+Visit <http://localhost:8000> or <http://[your-ip-address]:8000>
 
 /home
 /admin
