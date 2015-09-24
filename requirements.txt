@@ -1,1 +1,26 @@
--r requirements/heroku.txt
+beautifulsoup4==4.4.0
+dj-database-url==0.3.0
+dj-static==0.0.6
+Django==1.8.2
+django-appconf==1.0.1
+django-compressor==1.5
+django-libsass==0.4
+django-modelcluster==0.6.2
+django-overextends==0.4.0
+django-salesforce==0.6
+django-taggit==0.17.0
+django-treebeard==3.0
+gunicorn==19.1.1
+html5lib==0.999
+libsass==0.8.2
+Pillow==2.8.1
+psycopg2==2.6
+pytz==2015.4
+requests==2.7.0
+simplejson==3.8.0
+six==1.9.0
+sphinx-me==0.3
+static3==0.6.1
+Unidecode==0.4.18
+wagtail==1.0
+Willow==0.2.1
